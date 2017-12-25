@@ -1,2 +1,3 @@
-# 4inarow
-simple 4 in a row game
+# Štiri v vrsto
+
+Na hitro narejen štiri v vrsto v ne najlepšem jeziku na svetu - Javi.
